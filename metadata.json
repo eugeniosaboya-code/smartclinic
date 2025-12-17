@@ -1,0 +1,5 @@
+{
+  "name": "PsiManager",
+  "description": "A comprehensive management system for psychology professionals featuring patient scheduling, electronic medical records (prontuários), and AI-assisted clinical summaries.",
+  "requestFramePermissions": []
+}
